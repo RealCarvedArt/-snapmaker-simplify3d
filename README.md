@@ -5,4 +5,4 @@ This repo contains Simplify3D slicer profiles specifically made to be used by Sn
 
 # How to use
 
-These profiles are exported as config bundles and then split into the specific parts. As such, to import them choose "File" > "Import" > "Import Config Bundle" and import each config. It will not work if you choose "Import Config".
+These profiles are exported as config bundles and then split into the specific parts. As such, to import them choose "File" > "Import FFF profile" and import each profile.
