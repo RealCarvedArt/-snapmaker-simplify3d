@@ -1,1 +1,1 @@
-# -snapmaker-simplify3d
+# snapmaker-simplify3d
